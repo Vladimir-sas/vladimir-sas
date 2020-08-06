@@ -1,6 +1,6 @@
 ### Hi there 👋
-###🔭 I’m currently working on myself
-###🌱 I’m currently learning python
+    🔭 I’m currently working on myself
+    🌱 I’m currently learning python
 
 <!--
 **Vladimir-sas/vladimir-sas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
